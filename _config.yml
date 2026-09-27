@@ -23,7 +23,7 @@ repository               : "websiteku13/cobacoba.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.JPG"
+  avatar           : "profile.jpg"
   name             : "Patrick Star"
   pronouns         : # example: "she/her"  
   bio              : "My Name's Not Rick!"
